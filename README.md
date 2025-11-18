@@ -366,9 +366,6 @@ GioHen
 
 ### Tuyến Đường Khách Hàng
 
-- `/teacher/search_rooms` - Tìm kiếm phòng
-- `/teacher/room_detail/{id}` - Xem chi tiết phòng
-- `/teacher/suggest_rooms` - Đề xuất phòng trống theo thời gian
 - `/petcare/customer/index.php` - Trang chủ khách hàng
 - `/customer/index.php?controller=XacThucController&action=hienThiDangNhap` - Đăng nhập
 - `/customer/index.php?controller=XacThucController&action=hienThiDangKy` - Đăng ký
